@@ -8,7 +8,7 @@ order: 2
 
 You can download my CV below:
 
-[Download My CV](/assets/files/Winfred_Achieng_CV.pdf)
+(/assets/files/Winfred_Achieng_CV.pdf)
 
 
 
