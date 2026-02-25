@@ -1,7 +1,6 @@
 ---
 title: Power BI Dashboard
 date: 2026-02-25
-image: (/assets/power-bi-project.png)
 categories: [Projects]
 tags: [Power BI, Business Intelligence]
 ---
@@ -10,7 +9,7 @@ tags: [Power BI, Business Intelligence]
 Developing hands on experience in Business intelligence for hotel management.
 Transformation of data and building of DAX
 Creation of a visualization dashboard
-![Power BI Dashboard](/assets/img/power-bi-project.png)
+![Power BI Dashboard](/assets/power-bi-project.png)
 
 
 
@@ -21,3 +20,4 @@ Conducted transformation of raw data
 Created Calculated fields
 Established relationships between dimensions 
 Designed an insightful HR visualization datshboard
+![Tableau Dashboard](/assets/tableau-project.png)
