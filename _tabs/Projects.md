@@ -5,7 +5,7 @@ Transformation of data and building of DAX
 Creation of a visualization dashboard
 
 # Dashboard Image
-assets/files/Power BI Project.png (width 2000, height 1000)
+assets/files/Power BI Project.png 
 
 
 
