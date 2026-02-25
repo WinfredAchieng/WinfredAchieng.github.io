@@ -9,7 +9,7 @@ tags: [Power BI, Business Intelligence]
 Developing hands on experience in Business intelligence for hotel management.
 Transformation of data and building of DAX
 Creation of a visualization dashboard
-![Power BI Dashboard](/assets/Power-BI-Project.png)
+![Power BI Dashboard](/assets/PowerBIProject.png)
 
 
 
@@ -20,4 +20,4 @@ Conducted transformation of raw data
 Created Calculated fields
 Established relationships between dimensions 
 Designed an insightful HR visualization datshboard
-![Tableau Dashboard](/assets/Tableau-Project.png)
+![Tableau Dashboard](/assets/TableauProject.png)
