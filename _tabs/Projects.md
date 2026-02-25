@@ -6,7 +6,7 @@ Creation of a visualization dashboard
 ---
 title: Power BI Dashboard
 date:2026-02-25
-image: 
+image: /assets/Power BI Project.png
 ---
 
 ### TABLEAU VISUALIZATION
