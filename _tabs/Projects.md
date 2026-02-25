@@ -3,6 +3,11 @@
 Developing hands on experience in Business intelligence for hotel management.
 Transformation of data and building of DAX
 Creation of a visualization dashboard
+---
+title: Power BI Dashboard
+date:2026-02-25
+image: 
+---
 
 ### TABLEAU VISUALIZATION
 Developed meaningful insights that can inform decision making
