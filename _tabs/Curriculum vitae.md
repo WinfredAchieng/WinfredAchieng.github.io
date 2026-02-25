@@ -12,5 +12,6 @@ You can download my CV below:
 
 
 ## Education
-Bachelor Degreee - Criminology with Information Technology
+Bachelor Degreee - Criminology with Information Technology.
+
 Cyber Shujaa Program – Data & Artificial Intelligence
