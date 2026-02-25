@@ -4,7 +4,7 @@ Developing hands on experience in Business intelligence for hotel management.
 Transformation of data and building of DAX
 Creation of a visualization dashboard
 
-
+image: !(assets/Power BI Project.png)
 
 
 
