@@ -4,7 +4,7 @@ icon: fas fa-info-circle
 order: 4
 ---
 
-Hi, I’m **Winfred Oduor** 👋  
+Hi, I’m **Winfred Achieng** 👋  
 
 I’m a **Data & AI enthusiast** passionate about turning raw data into actionable insights. I build **predictive models, dashboards, and data pipelines** using **Python, Machine Learning, Power BI and Tableau**.  
 
